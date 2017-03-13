@@ -19,6 +19,7 @@ public class SeleniumSetup {
 		
 	    driver.manage().window().maximize();
 		System.out.println("Hii!!!! congratulations!!! setup has done... Facebook is opened");
+		System.out.println("github updated");
 		
 		driver.close();
 		
